@@ -1,0 +1,210 @@
+{
+    "focal_length_height": 498.38115199099565,
+    "focal_length_width": 526.3769059096147,
+    "r2_height": 0.981777165406011,
+    "r2_width": 0.9778043909519133,
+    "calibrated_distance_avg_of_samples": 179.997,
+    "samples": [
+        {
+            "pixel_height": 303.3653869628906,
+            "pixel_width": 207.982421875,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 112.5,
+            "focal_length_h": 537.4583627295307,
+            "focal_length_w": 648.144666507964,
+            "timestamp": "2025-08-05T01:53:06.913276"
+        },
+        {
+            "pixel_height": 296.87835693359375,
+            "pixel_width": 196.02169799804688,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 109.07,
+            "focal_length_h": 509.92948646845775,
+            "focal_length_w": 592.2461662229077,
+            "timestamp": "2025-08-05T01:53:32.027201"
+        },
+        {
+            "pixel_height": 292.47955322265625,
+            "pixel_width": 188.570556640625,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 114.73,
+            "focal_length_h": 528.4437660037064,
+            "focal_length_w": 599.2991679606345,
+            "timestamp": "2025-08-05T01:53:34.678534"
+        },
+        {
+            "pixel_height": 288.5834655761719,
+            "pixel_width": 183.00390625,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 108.04,
+            "focal_length_h": 491.0009074149545,
+            "focal_length_w": 547.6936850761773,
+            "timestamp": "2025-08-05T01:53:37.750976"
+        },
+        {
+            "pixel_height": 295.4268798828125,
+            "pixel_width": 201.16717529296875,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 95.35,
+            "focal_length_h": 443.60555900513657,
+            "focal_length_w": 531.3376776782428,
+            "timestamp": "2025-08-05T01:53:52.958971"
+        },
+        {
+            "pixel_height": 211.74664306640625,
+            "pixel_width": 126.55645751953125,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 148.86,
+            "focal_length_h": 496.3874848325234,
+            "focal_length_w": 521.8613370182111,
+            "timestamp": "2025-08-05T01:54:16.039647"
+        },
+        {
+            "pixel_height": 210.77874755859375,
+            "pixel_width": 126.86158752441406,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 155.89,
+            "focal_length_h": 517.4535268804594,
+            "focal_length_w": 547.8241794786954,
+            "timestamp": "2025-08-05T01:54:19.808903"
+        },
+        {
+            "pixel_height": 211.840087890625,
+            "pixel_width": 127.81101989746094,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 155.89,
+            "focal_length_h": 520.0590756105437,
+            "focal_length_w": 551.9240967261824,
+            "timestamp": "2025-08-05T01:54:22.782646"
+        },
+        {
+            "pixel_height": 191.67938232421875,
+            "pixel_width": 123.52490234375,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 162.24,
+            "focal_length_h": 489.73327540600394,
+            "focal_length_w": 555.143494632964,
+            "timestamp": "2025-08-05T01:57:16.238430"
+        },
+        {
+            "pixel_height": 189.84307861328125,
+            "pixel_width": 116.95458984375,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 160.01,
+            "focal_length_h": 478.3746615576556,
+            "focal_length_w": 518.3906903295965,
+            "timestamp": "2025-08-05T01:57:23.725766"
+        },
+        {
+            "pixel_height": 155.59698486328125,
+            "pixel_width": 86.8740234375,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 200.66,
+            "focal_length_h": 491.6864721679687,
+            "focal_length_w": 482.8848072844529,
+            "timestamp": "2025-08-05T01:57:35.656146"
+        },
+        {
+            "pixel_height": 153.44821166992188,
+            "pixel_width": 84.8829345703125,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 202.88,
+            "focal_length_h": 490.2609950172244,
+            "focal_length_w": 477.0373896295014,
+            "timestamp": "2025-08-05T01:57:44.470516"
+        },
+        {
+            "pixel_height": 153.17474365234375,
+            "pixel_width": 84.478759765625,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 200.66,
+            "focal_length_h": 484.0321899414062,
+            "focal_length_w": 469.570856913305,
+            "timestamp": "2025-08-05T01:57:49.704807"
+        },
+        {
+            "pixel_height": 150.85671997070312,
+            "pixel_width": 83.439208984375,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 203.91,
+            "focal_length_h": 484.42824833426886,
+            "focal_length_w": 471.30440731312757,
+            "timestamp": "2025-08-05T01:57:56.197923"
+        },
+        {
+            "pixel_height": 151.55093383789062,
+            "pixel_width": 83.47723388671875,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 207.0,
+            "focal_length_h": 494.0321780227301,
+            "focal_length_w": 478.66447131719616,
+            "timestamp": "2025-08-05T01:58:01.701565"
+        },
+        {
+            "pixel_height": 126.17654418945312,
+            "pixel_width": 69.71923828125,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 243.36,
+            "focal_length_h": 483.5641542353593,
+            "focal_length_w": 469.9965049342105,
+            "timestamp": "2025-08-05T01:58:31.730458"
+        },
+        {
+            "pixel_height": 123.16458129882812,
+            "pixel_width": 70.88238525390625,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 266.51,
+            "focal_length_h": 516.9227175110343,
+            "focal_length_w": 523.2926452636718,
+            "timestamp": "2025-08-05T01:58:35.706359"
+        },
+        {
+            "pixel_height": 125.90557861328125,
+            "pixel_width": 69.4647216796875,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 249.19,
+            "focal_length_h": 494.0852147187961,
+            "focal_length_w": 479.499002641588,
+            "timestamp": "2025-08-05T01:58:38.688842"
+        },
+        {
+            "pixel_height": 128.45883178710938,
+            "pixel_width": 76.58291625976562,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 251.08,
+            "focal_length_h": 507.9282438599594,
+            "focal_length_w": 532.6437289335721,
+            "timestamp": "2025-08-05T01:59:49.547485"
+        },
+        {
+            "pixel_height": 128.01165771484375,
+            "pixel_width": 75.71665954589844,
+            "actual_height": 63.5,
+            "actual_width": 36.1,
+            "distance": 252.11,
+            "focal_length_h": 508.2365201021931,
+            "focal_length_w": 528.7791423300957,
+            "timestamp": "2025-08-05T01:59:54.117045"
+        }
+    ],
+    "calibration_date": "2025-08-05T02:35:05.334716"
+}
